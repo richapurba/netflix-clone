@@ -13,6 +13,7 @@
 	z-index: 1;
 	color: #fff;
 	padding: 20px;
+	left: 0;
 }
 .loginScreen__body > h1 {
 	font-size: 3.125rem;
